@@ -1,0 +1,6 @@
+[
+  { "id": 1, "nombre": "Notebook", "categoria": "Tecnología", "precio": 250000 },
+  { "id": 2, "nombre": "Zapatillas", "categoria": "Calzado", "precio": 45000 },
+  { "id": 3, "nombre": "Celular", "categoria": "Tecnología", "precio": 180000 },
+  { "id": 4, "nombre": "Remera", "categoria": "Ropa", "precio": 15000 }
+]
