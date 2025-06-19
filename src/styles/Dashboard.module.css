@@ -1,0 +1,39 @@
+.containerDashboard {
+  background: linear-gradient(to bottom, #7ec1f8, #c7e3f7);
+  padding: 2rem;
+  border-radius: 12px;
+  min-height: 100vh;
+  width: 100vw;
+  height: 100vh;
+}
+
+.title {
+  color: #007bff;
+  font-weight: 600;
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  text-shadow: 0 0 3px rgba(37, 88, 255, 0.788),0 0 6px rgba(30, 109, 255, 0.788);
+  letter-spacing: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cardCustom {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: none;
+  border-radius: 10px;
+}
+
+.cardCustom:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.card-title {
+  font-weight: 600;
+  color: #343a40;
+}
+
+.card-text {
+  color: #6c757d;
+}

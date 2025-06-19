@@ -1,0 +1,20 @@
+.loginContainer {
+  min-height: 100vh;
+  background: linear-gradient(to bottom, #7ec1f8, #c7e3f7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.loginCard {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+}
